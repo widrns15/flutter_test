@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "appTitle": "EveryPet",
+  "login": "Login",
+  "register": "Register",
+  "home": "Home",
+  "myPage": "My Page",
+  "languageSetting": "Language Setting",
+  "matchingRequest": "Matching Request",
+  "matchingReceived": "Received Requests",
+  "matchingSent": "Sent Requests"
+}
