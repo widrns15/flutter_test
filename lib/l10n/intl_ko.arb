@@ -1,0 +1,12 @@
+{
+  "@@locale": "ko",
+  "appTitle": "EveryPet",
+  "login": "로그인",
+  "register": "회원가입",
+  "home": "홈",
+  "myPage": "마이페이지",
+  "languageSetting": "언어 설정",
+  "matchingRequest": "매칭 요청",
+  "matchingReceived": "받은 매칭 요청",
+  "matchingSent": "보낸 매칭 요청"
+}
